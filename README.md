@@ -39,9 +39,10 @@ SignLanguageTranslator/
 🛠️ Environment Setup & Installation
 Clone the repository:
 
-Bash
+```Bash
 git clone [https://github.com/majorrip/SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning.git](https://github.com/majorrip/SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning.git)
 cd SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning
+```
 Create a virtual environment (Recommended):
 
 ```Bash
