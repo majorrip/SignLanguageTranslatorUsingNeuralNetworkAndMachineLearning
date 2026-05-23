@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20PyTorch-orange.svg)
 ![Domain](https://img.shields.io/badge/Domain-Computer%20Vision%20%7C%20Deep%20Learning-green.svg)
+![Still In Progress](https://img.shields.io/badge/Domain-Computer%20Vision%20%7C%20Deep%20Learning-green.svg)
 
 ## 📌 Project Overview
 This repository contains the code and methodology for a **Sign Language Translator** powered by deep learning. The goal of this project is to bridge the communication gap between the deaf/hard-of-hearing community and the general public by using Machine Learning (ML) and Computer Vision to automatically classify and translate sign language gestures into readable text.
