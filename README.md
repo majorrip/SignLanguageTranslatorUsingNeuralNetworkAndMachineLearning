@@ -40,7 +40,7 @@ SignLanguageTranslator/
 Clone the repository:
 
 ```Bash
-git clone [https://github.com/majorrip/SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning.git](https://github.com/majorrip/SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning.git)
+git clone https://github.com/majorrip/SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning.git
 cd SignLanguageTranslatorUsingNeuralNetworkAndMachineLearning
 ```
 Create a virtual environment (Recommended):
